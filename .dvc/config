@@ -1,0 +1,9 @@
+[core]
+    remote = origin
+['remote "dagshub_remote"']
+    url = https://dagshub.com/Mahd1i/Kidney-Disease-Classification-Deep-Learning-Project.dvc
+['remote "origin"']
+    url = https://dagshub.com/Mahd1i/Kidney-Disease-Classification-Deep-Learning-Project.dvc
+    user = Mahd1i
+    password = f0e24693648cb1114d3a6415f75f9ad54af0012b
+    auth = basic
